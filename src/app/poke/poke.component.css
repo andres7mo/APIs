@@ -1,0 +1,26 @@
+#img{
+  height: 250;
+  width: 250;
+  text-align: center;
+  background-image: url('https://i.ibb.co/bdystWg/pokeball-background.png');
+
+
+}
+
+
+p{
+  font-family: 'Press Start 2P', cursive;
+text-align: center;
+text-decoration: aqua;
+}
+
+#IDF{
+  border: 1px solid black;
+  margin-top: 5px;
+  width: 80px;
+  height: 80px;
+  align-items: center;
+}
+
+
+
